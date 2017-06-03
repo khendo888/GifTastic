@@ -1,0 +1,13 @@
+.jumbotron {
+	background: #000066;
+	color: #fff;
+	text-shadow: 
+}
+h3 {
+	text-shadow: #000;
+	font-style: italic;
+}
+.btn, .submit {
+	background: #000066;
+	color: #fff;
+}
